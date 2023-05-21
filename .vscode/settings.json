@@ -5,4 +5,5 @@
     "editor.codeActionsOnSave": {
         "source.fixAll": true
     },
+    "typescript.format.insertSpaceAfterOpeningAndBeforeClosingEmptyBraces": true
 }
