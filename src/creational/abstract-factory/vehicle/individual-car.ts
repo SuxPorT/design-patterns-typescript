@@ -1,11 +1,8 @@
-import { Vehicle } from "../../factory-method/vehicle/vehicle";
 import { Customer } from "../customer/customer";
+import { VehicleProtocol } from "./vehicle-protocol";
 
-export class IndividualCar implements Vehicle {
+export class IndividualCar implements VehicleProtocol {
   constructor(public name: string, private readonly customer: Customer) { }
-  stop(): void {
-    throw new Error("Method not implemented.");
-  }
 
   pickUp(): void {
     console.log(

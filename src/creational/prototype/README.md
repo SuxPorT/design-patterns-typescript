@@ -42,4 +42,4 @@ O que é bom ou ruim no Prototype:
 
 **Ruim:**
 
-- Clonar objetos que que tem referências para outros objetos pode ser super complexo.
+- Clonar objetos que têm referências para outros objetos pode ser super complexo.
