@@ -14,7 +14,7 @@ Em vídeo: https://www.youtube.com/watch?v=-nSOKE4f2gA&list=PLbIBj8vQhvm0VY5YrMr
 
 ## Estrutura
 
-<img src="./diagrams/Template-MEthod.png" width="700px">
+<img src="./diagrams/Template-Method.png" width="700px">
 
 ## Aplicabilidade
 
