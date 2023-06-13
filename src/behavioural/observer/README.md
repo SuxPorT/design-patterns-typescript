@@ -14,7 +14,7 @@ Em vídeo: https://www.youtube.com/watch?v=iMV1aHaijhQ&list=PLbIBj8vQhvm0VY5YrMr
 
 ## Estrutura
 
-Veja a pasta diagramas.
+<img src="./diagrams/Observer.png" width="700px">
 
 ## Aplicabilidade
 
@@ -24,7 +24,7 @@ Use o Observer quando:
 
 ## Implementação
 
-<img src="./diagrams/Observer.png" width="700px">
+Veja o código e os diagramas dessa pasta para entender como o Observer é implementado.
 
 ## Consequências
 
